@@ -26,7 +26,7 @@ if(ans=="Y"):
         order_total+=menu[item2]
         
     else:
-        print(
+        print( 
             "order something available in the menu"
         )    
 
